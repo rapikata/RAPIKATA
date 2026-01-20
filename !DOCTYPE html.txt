@@ -34,15 +34,34 @@
   </div>
 
   <div class="box">
-    <h2>Layanan Kami</h2>
+    <h2>Paket Layanan & Harga</h2>
     <ul>
-      <li>📄 Pengetikan & Perapihan Dokumen</li>
-      <li>📝 CV & Surat Lamaran Kerja</li>
-      <li>📊 Proposal & PowerPoint</li>
-      <li>✍️ Artikel & Blog</li>
-      <li>🌍 Terjemahan Inggris ⇄ Indonesia</li>
-      <li>📘 Ringkasan PDF / Buku</li>
+      <li>📄 <b>Pengetikan & Perapihan Dokumen</b><br>Mulai Rp5.000 / halaman</li>
+      <li>📝 <b>CV & Surat Lamaran</b><br>Mulai Rp25.000</li>
+      <li>📊 <b>Proposal & PowerPoint</b><br>Mulai Rp30.000</li>
+      <li>✍️ <b>Artikel & Blog</b><br>Mulai Rp10.000 / 300 kata</li>
+      <li>🌍 <b>Terjemahan Inggris ⇄ Indonesia</b><br>Mulai Rp15.000 / halaman</li>
+      <li>📘 <b>Ringkasan PDF / Buku</b><br>Mulai Rp20.000</li>
     </ul>
+    <p><i>*Harga dapat disesuaikan dengan tingkat kesulitan & deadline</i></p>
+  </div>
+
+  <div class="box">
+    <h2>Cara Order</h2>
+    <ol>
+      <li>Hubungi RAPIKATA via WhatsApp</li>
+      <li>Kirim file & jelaskan kebutuhan</li>
+      <li>Dapatkan estimasi harga</li>
+      <li>Pengerjaan cepat & rapi</li>
+      <li>File dikirim setelah selesai</li>
+    </ol>
+  </div>
+
+  <div class="box">
+    <h2>FAQ</h2>
+    <p><b>Q: Apakah bisa revisi?</b><br>Ya, revisi ringan gratis.</p>
+    <p><b>Q: Berapa lama pengerjaan?</b><br>Tergantung jumlah & tingkat kesulitan, bisa same day.</p>
+    <p><b>Q: Apakah dokumen aman?</b><br>Privasi klien kami jaga sepenuhnya.</p>
   </div>
 
   <div class="box">
