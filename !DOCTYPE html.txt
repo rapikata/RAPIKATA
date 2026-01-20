@@ -1,70 +1,76 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>RAPIKATA | Jasa Dokumen Online</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RAPIKATA – Jasa Dokumen Online Cepat & Terpercaya</title>
+  <meta name="description" content="RAPIKATA melayani pengetikan, CV, proposal, artikel, terjemahan Inggris–Indonesia, dan ringkasan PDF. Fast response via WhatsApp.">
   <style>
-    body {font-family: Arial, Helvetica, sans-serif; margin:0; background:#f9fafb; color:#1f2937;}
-    header {background:linear-gradient(135deg,#f59e0b,#facc15); padding:40px 20px; text-align:center;}
-    header h1 {margin:0; font-size:42px;}
-    header p {font-size:18px; margin-top:10px;}
-    section {padding:40px 20px; max-width:1100px; margin:auto;}
-    .services {display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:20px;}
-    .card {background:white; padding:20px; border-radius:12px; box-shadow:0 6px 16px rgba(0,0,0,.08);}
-    .card h3 {margin-top:0;}
-    .cta {background:#22c55e; color:white; padding:30px; text-align:center; border-radius:16px;}
-    .cta a {background:#16a34a; color:white; padding:14px 28px; border-radius:999px; text-decoration:none; font-weight:bold; display:inline-block; margin-top:15px;}
-    footer {text-align:center; padding:20px; font-size:14px; color:#6b7280;}
+    body {font-family: Arial, sans-serif; margin:0; background:#f5f7fa; color:#333;}
+    header {background:#0d6efd; color:white; padding:30px 20px; text-align:center;}
+    section {padding:30px 20px; max-width:900px; margin:auto;}
+    h2 {color:#0d6efd;}
+    ul {line-height:1.8;}
+    .cta {text-align:center; margin:40px 0;}
+    .cta a {background:#25D366; color:white; padding:15px 25px; text-decoration:none; border-radius:8px; font-size:18px;}
+    .box {background:white; padding:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin-bottom:20px;}
+    footer {background:#222; color:#ccc; text-align:center; padding:20px; font-size:14px;}
   </style>
 </head>
 <body>
 
 <header>
   <h1>RAPIKATA</h1>
-  <p>Jasa Dokumen Online – Cepat • Rapi • Terpercaya</p>
+  <p>Jasa Dokumen Online • Cepat • Rapi • Terpercaya</p>
 </header>
 
 <section>
-  <h2>Layanan Kami</h2>
-  <div class="services">
-    <div class="card">
-      <h3>Ketik & Edit Dokumen</h3>
-      <p>Pengetikan ulang, perapihan, dan editing dokumen Word/PDF.</p>
-    </div>
-    <div class="card">
-      <h3>CV & Surat Lamaran</h3>
-      <p>CV profesional & surat lamaran siap kirim ke HRD.</p>
-    </div>
-    <div class="card">
-      <h3>PPT Presentasi</h3>
-      <p>Slide presentasi rapi, jelas, dan menarik.</p>
-    </div>
-    <div class="card">
-      <h3>Artikel & Blog</h3>
-      <p>Penulisan konten artikel sesuai kebutuhan.</p>
-    </div>
-    <div class="card">
-      <h3>Terjemahan</h3>
-      <p>Inggris ⇄ Indonesia, rapi dan mudah dipahami.</p>
-    </div>
-    <div class="card">
-      <h3>Ringkasan PDF / Buku</h3>
-      <p>Ringkas materi menjadi poin-poin penting.</p>
-    </div>
+  <div class="box">
+    <h2>Tentang Kami</h2>
+    <p>
+      RAPIKATA adalah layanan jasa dokumen online yang membantu pengetikan, perapihan,
+      penyusunan CV, proposal, artikel, terjemahan, dan ringkasan dokumen secara cepat dan profesional.
+    </p>
   </div>
-</section>
 
-<section>
+  <div class="box">
+    <h2>Layanan Kami</h2>
+    <ul>
+      <li>📄 Pengetikan & Perapihan Dokumen</li>
+      <li>📝 CV & Surat Lamaran Kerja</li>
+      <li>📊 Proposal & PowerPoint</li>
+      <li>✍️ Artikel & Blog</li>
+      <li>🌍 Terjemahan Inggris ⇄ Indonesia</li>
+      <li>📘 Ringkasan PDF / Buku</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>Kenapa Pilih RAPIKATA?</h2>
+    <ul>
+      <li>⚡ Respon cepat via WhatsApp</li>
+      <li>✅ Hasil rapi & sesuai kebutuhan</li>
+      <li>💬 Bisa konsultasi sebelum order</li>
+      <li>🔒 Privasi dokumen terjamin</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>Testimoni</h2>
+    <p>⭐️⭐️⭐️⭐️⭐️ Dokumen rapi, cepat, dan sangat membantu.</p>
+    <p>⭐️⭐️⭐️⭐️⭐️ Pelayanan ramah, hasil sesuai permintaan.</p>
+  </div>
+
   <div class="cta">
-    <h2>Siap Order Sekarang?</h2>
-    <p>Konsultasi gratis via WhatsApp</p>
-    <a href="https://wa.me/628131919060">Chat WhatsApp</a>
+    <a href="https://wa.me/628131919060?text=Halo%20RAPIKATA,%20saya%20ingin%20konsultasi%20jasa%20dokumen">
+      💬 Konsultasi & Order via WhatsApp
+    </a>
   </div>
 </section>
 
 <footer>
-  © 2026 RAPIKATA – Jasa Dokumen Online
+  <p>© 2026 RAPIKATA | Jasa Dokumen Online</p>
+  <p>WhatsApp: 0813-1919-060</p>
 </footer>
 
 </body>
